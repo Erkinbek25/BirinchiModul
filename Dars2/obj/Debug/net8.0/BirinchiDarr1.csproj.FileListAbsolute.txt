@@ -1,0 +1,14 @@
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\bin\Debug\net8.0\BirinchiDarr1.exe
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\bin\Debug\net8.0\BirinchiDarr1.deps.json
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\bin\Debug\net8.0\BirinchiDarr1.runtimeconfig.json
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\bin\Debug\net8.0\BirinchiDarr1.dll
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\bin\Debug\net8.0\BirinchiDarr1.pdb
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\obj\Debug\net8.0\BirinchiDarr1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\obj\Debug\net8.0\BirinchiDarr1.AssemblyInfoInputs.cache
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\obj\Debug\net8.0\BirinchiDarr1.AssemblyInfo.cs
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\obj\Debug\net8.0\BirinchiDarr1.csproj.CoreCompileInputs.cache
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\obj\Debug\net8.0\BirinchiDarr1.dll
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\obj\Debug\net8.0\refint\BirinchiDarr1.dll
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\obj\Debug\net8.0\BirinchiDarr1.pdb
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\obj\Debug\net8.0\BirinchiDarr1.genruntimeconfig.cache
+D:\MyCodes\DotNet\ModulOne\Projects\BirinchiDarr1\BirinchiDarr1\obj\Debug\net8.0\ref\BirinchiDarr1.dll
