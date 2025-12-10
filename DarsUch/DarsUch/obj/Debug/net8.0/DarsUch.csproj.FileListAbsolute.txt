@@ -1,0 +1,15 @@
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\bin\Debug\net8.0\DarsUch.exe
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\bin\Debug\net8.0\DarsUch.deps.json
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\bin\Debug\net8.0\DarsUch.runtimeconfig.json
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\bin\Debug\net8.0\DarsUch.dll
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\bin\Debug\net8.0\DarsUch.pdb
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\DarsUch.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\DarsUch.AssemblyInfoInputs.cache
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\DarsUch.AssemblyInfo.cs
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\DarsUch.csproj.CoreCompileInputs.cache
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\DarsUch.sourcelink.json
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\DarsUch.dll
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\refint\DarsUch.dll
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\DarsUch.pdb
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\DarsUch.genruntimeconfig.cache
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\DarsUch\DarsUch\obj\Debug\net8.0\ref\DarsUch.dll
