@@ -437,26 +437,262 @@
 
             // 1.5.1.27
 
-            Console.WriteLine("Enter len of list: ");
-            int n = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter len of list: ");
+            //int n = int.Parse(Console.ReadLine());
 
-            List<int> nums = new List<int>();
-            nums = FillListWithConsoleValues(nums, n);
+            //Console.WriteLine("Enter len of list: ");
+            //List<int> nums = new List<int>();
+            //List<int> numsa = new List<int>();
+            //nums = FillListWithConsoleValues(nums, n);
+            //numsa = FillListWithConsoleValues(numsa, n);
 
-            DisplayList(nums);
+            //DisplayList(nums);
+            //Console.WriteLine();
+            //DisplayList(numsa);
 
-            var res = FindSummPairNums(nums);
-            DisplayList(res);
+            ////var res = FindSummPairNums(nums);
+
+            //Console.Write("New List: ");
+            //DisplayList(MultplyTwoList(nums, numsa));
+
+            // 1.5.1.28
+            // n ta elementdan tashkil topgan string list berilgan.
+            //'$' bilan boshlanadigan elementlar miqdorini aniqlang.
+
+            //Console.WriteLine("Enter len of list: ");
+            //int n = int.Parse(Console.ReadLine());
+
+
+            //List<string> str = new List<string>();
+            //str = FillListWithConsoleValuesString(str, n);
+            ////nums = FillListWithConsoleValues(nums, n);
+
+            //Console.WriteLine($" Result : {CounterDollor(str)}" );
+
+            // 1.5.1.29
+
+            //n ta elementdan tashkil topgan string list berilgan.
+            //Hamma belgisi katta harf bo'lgan elementlarini ekranga chiqaruvchi dastur tuzing. 
+
+            //Console.WriteLine("Enter len of list: ");
+            //int n = int.Parse(Console.ReadLine());
+
+
+            //List<string> str = new List<string>();
+            //str = FillListWithConsoleValuesString(str, n);
+
+            //DisplayList(FindUpperElements(str));
+
+            //Console.WriteLine($" Result : {CounterDollor(str)}");
+
+            // 1.5.1.30
+            // Console.WriteLine("Enter len of list: ");
+            //int n = int.Parse(Console.ReadLine());
+
+
+            //List<int> nums = new List<int>();
+            //nums = FillListWithConsoleValues(nums, n);
+
+            //DisplayList(IncreaseEvenNums(nums));
+
+            // 1.5.1.31
+            //n ta butun sonlardan iborat list berilgan. 
+            //listdagi har bir toq sonni oxirgi toq songa orttiruvchi programma tuzilsin.
+
+            //Console.WriteLine("Enter len of list: ");
+            //int n = int.Parse(Console.ReadLine());
+
+
+            //List<int> nums = new List<int>();
+            //nums = FillListWithConsoleValues(nums, n);
+
+            //DisplayList(IncreaseOddNums(nums));
+
+            // 1.5.1.32
+            //n ta elementdan tashkil topgan list berilgan.
+            //listning juft indeksli elementlari orasidan kichigini aniqlovchi programma tuzilsin.min(a0, a2, a4, ...)
+
+            //Console.WriteLine("Enter len of list: ");
+            //int n = int.Parse(Console.ReadLine());
+
+
+            //List<int> nums = new List<int>();
+            //nums = FillListWithConsoleValues(nums, n);
+
+            //DisplayList(nums);
+            //Console.WriteLine(FindMinElement(nums));
+
+            // 1.5.1.33
+            // n ta elementdan tashkil topgan a va b list berilgan. c listni hosil qiling. c[i] = max(a[i], b[i]),
+            // ya'ni c listning i-elementi a va b listlarning i-elementlaridan kattasini qabul qilsin.
+
+            //Console.WriteLine("Enter len of list: ");
+            //int n = int.Parse(Console.ReadLine());
+
+
+            //List<int> numsa = new List<int>();
+            //List<int> numsb = new List<int>();
+            //numsa = FillListWithConsoleValues(numsa, n);
+            //numsb = FillListWithConsoleValues(numsb, n);
+
+            //DisplayList(MaxList(numsa, numsb));
+
+            // 1.5.1.34
+
+            // n ta elementdan iborat butun sonlardan tashkil topgan a list berilgan.
+            //a listning juft elementlaridan tashkil topgan b listini hosil qiling. 
+            //b list elementlari soni va elementlari chiqarilsin.
+
+            //Console.WriteLine("Enter len of list: ");
+            //int n = int.Parse(Console.ReadLine());
+
+
+            //List<int> nums = new List<int>();
+         
+            //nums = FillListWithConsoleValues(nums, n);
+
+            //DisplayList(OnlyEvennums(nums));
+
 
 
 
         }
+        static List<int> OnlyEvennums(List<int> nums)
+        {
+            List<int> Listb = new List<int>();
+            foreach ( var num in nums)
+            {
+                if ( num % 2 == 0)
+                {
+                    Listb.Add(num);
+                }
+            }
 
-        static  
+            return Listb;
+        }
+        static List<int> MaxList( List<int> numsa, List<int> numsb)
+        {
+            List<int> maxList = new List<int>();
+            for ( var i = 0; i < numsa.Count; i++)
+            {
+                maxList.Add(Math.Max(numsa[i], numsb[i]));
+            }
+            return maxList;
+        }
+
+
+        static int FindMinElement(List<int> nums)
+        {
+            var min = nums[0];
+            for (var i = 0; i < nums.Count; i += 2)
+            {
+                if ( min > nums[i])
+                {
+                    min = nums[i];
+                }
+            }
+            return min;
+        }
+
+        static List<int> IncreaseOddNums(List<int> texts)
+        {
+            int lastodd = 0;
+            foreach (var num in texts)
+            {
+                if (num % 2 != 0)
+                {
+                    lastodd = num;
+
+                }
+            }
+            for (var i = 0; i < texts.Count; i++)
+            {
+                if (texts[i] % 2 != 0)
+                {
+                    texts[i] += lastodd;
+                }
+            }
+            return texts;
+        }
+
+        static List<int> IncreaseEvenNums(List<int> texts)
+        {
+            int firsteven = 0;
+            foreach (var num in texts)
+            {
+                if (num % 2 == 0)
+                {
+                    firsteven = num;
+                    break;
+                }
+            }
+            for (var i = 0; i < texts.Count; i++)
+            {
+                if (texts[i] % 2 == 0)
+                {
+                    texts[i] += firsteven;
+                }
+            }
+            return texts;
+        }
+
+        static List<string> FindUpperElements(List<string> str)
+        {
+            List<string> result = new List<string>();
+            var uppertext = string.Empty;
+
+            foreach (var text in str)
+            {
+
+
+                uppertext = text.ToUpper();
+                if (text == uppertext)
+                {
+                    result.Add(text);
+                }
+
+
+            }
+
+            return result;
+        }
+        static List<string> FillListWithConsoleValuesString(List<string> str, int len)
+        {
+            for (var i = 0; i < len; i++)
+            {
+                Console.Write($" {i} : ");
+                str.Add(Console.ReadLine());
+            }
+            return str;
+        }
+        static int CounterDollor(List<string> str)
+        {
+            var count = 0;
+            foreach (var text in str)
+            {
+                if (text[0] == '$')
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
+        static List<int> MultplyTwoList(List<int> nums, List<int> numsa)
+        {
+            List<int> numsc = new List<int>();
+
+            for (var i = 0; i < nums.Count; i++)
+            {
+                numsc.Add(nums[i] * numsa[i]);
+            }
+
+            return numsc;
+
+        }
         static int CountOfNumBiggerThanLeftNum(List<int> nums)
         {
             int count = 0;
-            for( var i = 0; i < nums.Count - 1; i++)
+            for (var i = 0; i < nums.Count - 1; i++)
             {
                 if (nums[i] < nums[i + 1])
                 {
@@ -465,13 +701,13 @@
             }
 
             return count;
-        } 
+        }
         static List<int> FindSummPairNums(List<int> nums)
         {
             var num1 = 0;
             var num2 = 0;
 
-            for (var i = 0; i < nums.Count -1 ; i++)
+            for (var i = 0; i < nums.Count - 1; i++)
             {
                 if (nums[i] + nums[i + 1] > num1 + num2)
                 {
@@ -479,9 +715,9 @@
                     num2 = nums[i + 1];
                 }
             }
-             List<int> res = new List<int>() {  num1 , num2};
+            List<int> res = new List<int>() { num1, num2 };
             return res;
-            
+
         }
 
         static int SummList(List<int> nums)
@@ -789,14 +1025,24 @@
         }
 
 
-        static void DisplayList(List<int> nums)
+        static void DisplayList(List<string> nums)
         {
-            foreach (int num in nums)
+            foreach (var num in nums)
             {
                 Console.Write($"{num} ");
             }
             Console.WriteLine();
         }
+        static void DisplayList(List<int> nums)
+        {
+            foreach (int num in nums)
+            {
+                
+                Console.Write($"{num} ");
+            }
+            Console.WriteLine();
+        }
+
 
 
 
