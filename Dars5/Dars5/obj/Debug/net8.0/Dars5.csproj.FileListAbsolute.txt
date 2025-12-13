@@ -1,0 +1,15 @@
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\bin\Debug\net8.0\Dars5.exe
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\bin\Debug\net8.0\Dars5.deps.json
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\bin\Debug\net8.0\Dars5.runtimeconfig.json
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\bin\Debug\net8.0\Dars5.dll
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\bin\Debug\net8.0\Dars5.pdb
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\Dars5.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\Dars5.AssemblyInfoInputs.cache
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\Dars5.AssemblyInfo.cs
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\Dars5.csproj.CoreCompileInputs.cache
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\Dars5.sourcelink.json
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\Dars5.dll
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\refint\Dars5.dll
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\Dars5.pdb
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\Dars5.genruntimeconfig.cache
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\Dars5\Dars5\obj\Debug\net8.0\ref\Dars5.dll

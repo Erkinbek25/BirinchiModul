@@ -1,0 +1,15 @@
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\bin\Debug\net8.0\dars6.exe
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\bin\Debug\net8.0\dars6.deps.json
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\bin\Debug\net8.0\dars6.runtimeconfig.json
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\bin\Debug\net8.0\dars6.dll
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\bin\Debug\net8.0\dars6.pdb
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\dars6.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\dars6.AssemblyInfoInputs.cache
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\dars6.AssemblyInfo.cs
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\dars6.csproj.CoreCompileInputs.cache
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\dars6.sourcelink.json
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\dars6.dll
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\refint\dars6.dll
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\dars6.pdb
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\dars6.genruntimeconfig.cache
+D:\MyCodes\DotNet\ModulOne\BirinchiModul\dars6\dars6\obj\Debug\net8.0\ref\dars6.dll
