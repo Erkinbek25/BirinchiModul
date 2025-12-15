@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dars6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c43ab329fabcdb88f2151386417c8fe9f3c8ac6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9110732e8b01033eda89bc5f40e9f15086622e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("dars6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dars6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
