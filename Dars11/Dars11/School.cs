@@ -1,0 +1,11 @@
+﻿namespace Dars11;
+
+internal class School
+{
+    public int Number { get; set; }
+    public string SchoolName { get; set; }
+    public string Location { get; set; }
+    public int Capacity { get; set; }
+    public int CurrentStudentCount { get; set; }
+}
+

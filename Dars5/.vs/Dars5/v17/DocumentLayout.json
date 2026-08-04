@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "Dars5\\Program.cs",
               "ToolTip": "D:\\MyCodes\\DotNet\\ModulOne\\BirinchiModul\\Dars5\\Dars5\\Program.cs",
               "RelativeToolTip": "Dars5\\Program.cs",
-              "ViewState": "AgIAABsCAAAAAAAAAAAAwCcCAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACACAAAAAAAAAAAQwC0CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T16:29:47.065Z",
               "EditorCaption": ""
